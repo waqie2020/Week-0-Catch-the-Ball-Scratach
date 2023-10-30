@@ -1,1 +1,3 @@
 # Week-0-Catch-the-Ball-Scratach
+
+I've created a game called "Catch the Ball," featuring a player who can move left and right using arrow keys. The goal is to catch basketballs falling from the top. Catching a ball adds 1 point to the score, while if a ball stays on the ground for more than 2 seconds, the score decreases by 1 and continues to decrease by 1 every 2 seconds. A new ball appears when the score reaches a multiple of 6. At a score of 6, the game's speed increases by 0.5x, and at a score of 12, the speed increases again by 0.5x. Once the score crosses 25, both the catcher and the balls' speed increase. Victory is achieved upon reaching a score of 60.
